@@ -18,6 +18,10 @@ __Gestion Des Machines__
 
 
 
+https://github.com/HoussamNa/Tp1_5iir_Java_RMI/assets/77208956/9bea69a0-6aaf-4690-9b18-469bc8c0b537
+
+
+
 
 
 
